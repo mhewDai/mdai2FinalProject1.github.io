@@ -21,11 +21,18 @@ This project used many python data analysis and visualization libraries as liste
 Python Libraries:
 
 pandas
+
 numpy
+
 matplotlib.pyplot
+
 stepwise_regression
+
 seaborn
+
 statsmodels.api
+
 plotly.express
+
 chart_studio
 
